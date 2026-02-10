@@ -24,7 +24,7 @@
 ## tools_I_use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,flutter,dart,cs,firebase,MySQL" />
+  <img src="https://skillicons.dev/icons?i=js,react,flutter,dart,cs,firebase, MySQL, ASP.NET, GitHub" />
 </p>
 
 ---
@@ -38,6 +38,6 @@ class About extends Me {
     Frameworks: ["React", "Flutter", "ASP.NET"],
     Backend_BaaS: ["Firebase"],
     Databases: ["MySQL"],
-    OtherTools: ["Git", "GitHub", "Figma"]
+    OtherTools: ["Git", "GitHub"]
   };
 }
