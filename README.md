@@ -42,7 +42,7 @@ I learn by shipping, breaking, and improving projects.
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_GITHUB&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UziWrld&hide_border=true" />
 </p>
 
 <p align="center">
