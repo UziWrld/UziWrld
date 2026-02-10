@@ -18,22 +18,21 @@
   </a>
 </p>
 
-
 ---
 
 ## tools_I_use
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,flutter,dart,cs,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,react,flutter,dart,cs,firebase,git,github&theme=dark" />
 </p>
 
 ---
 
-```js
+<pre><code class="language-js">
 // tools_I_use organized
 
 class About extends Me {
-  const myTools = {
+  myTools = {
     ProgramingLanguages: ["JavaScript", "Dart", "C#"],
     Frameworks: ["React", "Flutter", "ASP.NET"],
     Backend_BaaS: ["Firebase"],
@@ -41,4 +40,10 @@ class About extends Me {
     OtherTools: ["Git", "GitHub"]
   };
 }
-<p align="center"> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" /> </p> ```
+</code></pre>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" />
+</p>
