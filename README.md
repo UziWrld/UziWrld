@@ -1,7 +1,7 @@
 <h2 align="center">Hello Coders</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=800&color=58A6FF&center=true&vCenter=true&width=420&lines=Busy+coding+%26+vibing;Building+things+that+work;Breaking+and+fixing+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=800&color=58A6FF&center=true&vCenter=true&width=480&lines=Busy+coding+and+building;Web+and+Mobile+Development;React+%7C+Flutter+%7C+ASP.NET;Shipping+real+projects" />
 </p>
 
 ---
@@ -9,21 +9,22 @@
 ## Workspace
 
 <p align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=UziWrld&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://www.linkedin.com/in/uzidev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=TU_GITHUB&label=Profile%20Views&color=0e75b6&style=flat" />
-  <a href="https://t.me/TU_TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
+  <a href="mailto:ktorres99a@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+
 ---
 
-## Tools I use
+## tools_I_use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,flutter,react,dart,java,cpp,c,python,js,html,css,bash,linux,vscode,neovim,firebase,sqlite,git,figma,photoshop&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,react,flutter,dart,cs,dotnet,firebase,sqlite,git,github,linux,vscode,neovim,figma&theme=dark" />
 </p>
 
 ---
@@ -33,11 +34,12 @@
 
 class About extends Me {
   const myTools = {
-    ProgramingLanguages: ["Dart", "Go", "Python", "JavaScript", "Java", "C++", "C"],
-    OtherLanguages: ["HTML", "CSS", "Bash", "JSON", "Markdown"],
-    Database: ["Firebase", "SQLite", "PostgreSQL"],
-    Editors: ["VSCode", "Sublime", "Neovim"],
+    ProgramingLanguages: ["JavaScript", "Dart", "C#"],
+    Frameworks: ["React", "Flutter", "ASP.NET"],
+    Backend_BaaS: ["Firebase"],
+    Databases: ["SQLite"],
+    Editors: ["VSCode", "Neovim"],
     Platforms: ["GNU/Linux", "Windows"],
-    OtherTools: ["Git", "Figma", "Photoshop", "Gimp", "Lightroom"]
+    OtherTools: ["Git", "GitHub", "Figma"]
   };
 }
