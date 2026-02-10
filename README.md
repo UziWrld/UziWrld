@@ -1,50 +1,57 @@
 <h1 align="center">Kevin Torres</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=600&color=0A66C2&center=true&vCenter=true&width=520&lines=Software+Developer;Web+and+Mobile+Applications;React+%7C+Flutter+%7C+ASP.NET;Building+things+that+actually+work" />
+  <code>
+    building real products, not tutorials
+  </code>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=3FB950&center=true&vCenter=true&width=520&lines=web+%2F+mobile+development;react+%7C+flutter+%7C+asp.net;learning+by+building+and+breaking" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/TU_GITHUB" target="_blank">
+  <a href="https://github.com/TU_GITHUB">
     <img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:ktorres99a@gmail.com">
-    <img src="https://img.shields.io/badge/Email-444444?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### About
+## Who am I
 
-Software developer focused on building real-world web and mobile products.  
-I learn by shipping, breaking, and improving projects.
+I build web and mobile applications focused on real use cases.  
+Most of what I know comes from shipping projects, fixing mistakes, and iterating.
+
+I care about clean logic, maintainable code, and products that actually get used.
 
 ---
 
-### Tech stack
+## Tech I work with
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,flutter,firebase,cs,dotnet,git,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,react,flutter,firebase,cs,dotnet,git,github&theme=dark" />
 </p>
 
 ---
 
-### What I'm doing now
+## Current focus
 
-- Building full-stack projects  
-- Improving backend and cloud skills  
-- Looking for remote and international opportunities  
+- Full-stack applications  
+- Backend logic and cloud services  
+- Improving code quality and architecture  
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UziWrld&hide_border=true" />
-</p>
+<details>
+<summary><strong>Notes</strong></summary>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UziWrld&show_icons=true&hide_border=true&hide_title=true" />
-</p>
+I’m not interested in buzzwords or hype.  
+I prefer small improvements, consistent progress, and learning by doing.
+</details>
