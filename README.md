@@ -24,7 +24,7 @@
 ## tools_I_use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,flutter,dart,cs,firebase, MySQL, ASP.NET, GitHub" />
+  <img src="https://skillicons.dev/icons?i=js,react,flutter,dart,cs,firebase, MySQL, ASPNET, GitHub" />
 </p>
 
 ---
