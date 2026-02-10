@@ -24,7 +24,7 @@
 ## tools_I_use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,flutter,dart,cs,dotnet,firebase,sqlite,git,github,linux,vscode,neovim,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,react,flutter,dart,cs,firebase,MySQL" />
 </p>
 
 ---
@@ -37,9 +37,7 @@ class About extends Me {
     ProgramingLanguages: ["JavaScript", "Dart", "C#"],
     Frameworks: ["React", "Flutter", "ASP.NET"],
     Backend_BaaS: ["Firebase"],
-    Databases: ["SQLite"],
-    Editors: ["VSCode", "Neovim"],
-    Platforms: ["GNU/Linux", "Windows"],
+    Databases: ["MySQL"],
     OtherTools: ["Git", "GitHub", "Figma"]
   };
 }
