@@ -41,8 +41,4 @@ class About extends Me {
     OtherTools: ["Git", "GitHub"]
   };
 }
-//
----
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" />
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" /> </p> ```
