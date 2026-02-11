@@ -20,10 +20,10 @@
 
 ---
 
-## tools_I_use
+## tools I use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,flutter,dart,cs,firebase,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,react,flutter,dart,cs,mysql,firebase,git,github&theme=dark" />
 </p>
 
 ---
